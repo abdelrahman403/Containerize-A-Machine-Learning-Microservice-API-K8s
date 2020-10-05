@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/abdelrahman403/Containerize-A-Machine-Learning-Microservice-API-K8s?style=svg)](https://circleci.com/gh/abdelrahman403/Containerize-A-Machine-Learning-Microservice-API-K8s)
+[![CircleCI](https://circleci.com/gh/abdelrahman403/Containerize-A-Machine-Learning-Microservice-API-K8s.svg?style=svg)](https://circleci.com/gh/abdelrahman403/Containerize-A-Machine-Learning-Microservice-API-K8s)
 
 ## Project Overview
 
